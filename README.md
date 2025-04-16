@@ -1,2 +1,1 @@
-# Stepik_tests_module2
-Stepik_tests_module2
+Решение заданий из модуля 2 "Полезные методы Selenium"
